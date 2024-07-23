@@ -55,8 +55,8 @@ Below are the writeups for the challenges solved by me split by category.
 - [Puzzle Pieces](Forensics/Puzzle_pieces.md)
  
 ### Incident Response
-- [Newws flash 1](Incident\ Response/Newws_flash_1.md)
-- [What you say!?](Incident\ Response/What_you_say.md) 
+- [Newws flash 1]("Incident Response/Newws_flash_1.md")
+- [What you say!?]("Incident Response/What_you_say.md") 
 - [Gimme _____ Checks Towards the Door!](Incident Response/Gimme_checks_towards_the_door.md)
 - [Save zig move zig](Incident Response/Save_zig_move_zig.md)
 - [SCH Part 1 - A new challenger arrives](Incident Response/SCH_part_1.md)
