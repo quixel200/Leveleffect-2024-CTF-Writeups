@@ -7,6 +7,9 @@ the binaries can be found here: https://github.com/Level-Effect/CyberDefenseCTF-
 
 Below are the writeups for the challenges solved by me split by category.
 
+note: I've not written the write-up's for the sprawl2 yet, also the link for 'My lament', check the file manually. 
+I will fix them later.
+
 ## categories 
 
 ### OSINT 
