@@ -7,7 +7,7 @@ Intermediate
 
 if it runs every 5 minutes, then its probably a scheduled task, we can check it out in the task scheduler.
 
-![the scheduled task](booshware.png)
+![the scheduled task](/Images/booshware.png)
 
 the name of the task is booshware.
 

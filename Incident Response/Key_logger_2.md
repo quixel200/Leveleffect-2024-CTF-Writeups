@@ -11,7 +11,7 @@ Once I realised that rundlll32.exe does most of the work, I decided to run it an
 
 We see that other than the base.out file, it also creates a 'misdirection.out' in 'C:\Program Files\WindowsPowerShell'
 
-![the second key logger](/Images/key_logger_outputs)
+![the second key logger](/Images/key_logger_outputs.png)
 
 `flag: leveleffect{misdirection.out}`
 

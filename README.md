@@ -25,7 +25,7 @@ Below are the writeups for the challenges solved by me split by category.
   
 ### Netwokring 
 - [Back to Basics 1](Networking/Back_to_basics_1.md)
-- [Back to Basics 2](Networking/Bac_to_basics_2.md)
+- [Back to Basics 2](Networking/Back_to_basics_2.md)
 - [Ask and you shall recv 1](Networking/Ask_and_you_shall_recv_1.md)
 - [Ask and you shall recv 2](Networking/Ask_and_you_shall_recv_2.md)
 - [Signed and secured](Networking/Signed_and_secured.md)
@@ -59,7 +59,7 @@ Below are the writeups for the challenges solved by me split by category.
 - [Newws flash 1](Incident%20Response/Newws_flash_1.md)
 - [What you say!?](Incident%20Response/What_you_say.md) 
 - [Gimme _____ Checks Towards the Door!](Incident%20Response/Gimme_checks_towards_the_door.md)
-- [Save zig move zig](Incidentt%20Response/Save_zig_move_zig.md)
+- [Save zig move zig](Incident%20Response/Save_zig_move_zig.md)
 - [SCH Part 1 - A new challenger arrives](Incident%20Response/SCH_part_1.md)
 - [SCH Part 2 - Part of the club ](Incident%20Response/SCH_part_2.md)
 - [Newws flash 2](Incident%20Response/Newws_flash_2.md)
@@ -75,16 +75,16 @@ Below are the writeups for the challenges solved by me split by category.
 - [SCH Part 5 - Pásale](Incident%20Response/SCH_part_5.md)
 - [SCH Part 6 - Check out ](Incident%20Response/SCH_part_6.md)
 - [SCH Part 7 - Wrong path ](Incident%20Response/SCH_Part_7.md)
-- [Where Did I Come From?](Incident%20Response/where_did_I_come_from.md)
-- [SCH Part 8 - Beacon ](Incident%20Response/Beacon.md)
+- [Where Did I Come From?](Incident%20Response/where_did_i_come_from.md)
+- [SCH Part 8 - Beacon ](Incident%20Response/SCH_part_8.md)
 - [Key Logger #2 ](Incident%20Response/Key_logger_2.md)
-- [SCH Part 9 - Parasite ](Incident%20Response/Parasite.md)
-- [SCH Part 10 - Slippery slug ](Incident%20Response/slippery_slug.md)
+- [SCH Part 9 - Parasite ](Incident%20Response/SCH_part_9.md)
+- [SCH Part 10 - Slippery slug ](Incident%20Response/SCH_part_10.md)
 
 ### Email Secuirty 
 - [Identity crisis](Email%20Security/Identity_crisis.md)
 - [Safe for skin safe for emails...](Email%20Security/Safe_for_skin_safe_for_emails.md)
-- [Out phishing ](Email%20Security/(Out_phishing.md)
+- [Out phishing ](Email%20Security/Out_phishing.md)
 - [2045th trick in the book ](Email%20Security/2045th_trick_in_the_book.md)
 
 ### Log Analysis 

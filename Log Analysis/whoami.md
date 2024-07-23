@@ -3,7 +3,7 @@
 
 
 What tactic was the attacker employing based on this command history? (1 word)
-![commands](/Images/commands.jpg)
+![commands](/Images/commands.png)
 
 Beginner 
 100 points 

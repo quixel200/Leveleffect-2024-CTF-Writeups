@@ -40,7 +40,7 @@ Now if you're really good at programming(unlike me), you could try to write your
 In order for the program to run, it needs to decode the strings at some point, so what if we just set a breakpoint there and see what the value is?
 first lets make the message string empty and store it somewhere else so that the rest of the program can run, and lets set a breakpoint after the call to decrypt to see what the IP is
 
-![the decrypted ip](/Images/decrypted_ip.png)
+![the decrypted ip](/Images/ip_decrypted.png)
 
 well its 1.2.3.4:6789, not that useful, but wait we still haven't decrypted the message yet. Lets replace the text in the ip field with the message and repeat the same process.
 and we get the flag!

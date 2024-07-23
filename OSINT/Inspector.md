@@ -8,6 +8,6 @@ I used find(ctrl+F on my browser) to search for the flag in the source code. you
 
 the flag was at https://www.leveleffect.com/cyber-defense-analyst
 
-![inspector flag](/../images/inspector.png)
+![inspector flag](/images/inspector.png)
 
 `flag: leveleffect{hidden_in_plain_sight}`

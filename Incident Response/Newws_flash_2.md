@@ -12,7 +12,7 @@ I first tried googling the file hash and looking at the results from any.run, I 
 
 So I filtered using procmon to show just the registry keys and found that the binary sets a Run key with 'Steam'
 
-![registry key](Imagess/news_flash_2.png)
+![registry key](/Imagess/news_flash_2.png)
 
 the answer is steam.
 

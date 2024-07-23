@@ -1,4 +1,4 @@
-# Namme that event 3E
+# Name that event 3
 
 I'm up and off to work. What event ID am I?
 

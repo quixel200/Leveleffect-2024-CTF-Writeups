@@ -10,7 +10,7 @@ Intermediate
 250 points 
 
 
-![the process tree](/Images/olgreg.exe)
+![the process tree](/Images/olgreg.png)
 
 So looking at the process tree in procmon, we see that olgreg spawns three processes:
 - net.exe

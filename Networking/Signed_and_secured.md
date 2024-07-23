@@ -10,4 +10,6 @@ https://apackets.com/
 
 looking through the actual packets yielded no results, and I couldn't find any suspicious looking IP's either. Next I looked through the tls/ssl certificates, one of them was self-signed... with the flag!
 
+![the certificate](/Images/signed_and_secured.png)
 
+`flag: leveleffect{b0gu5_c3rt1f1c4t3s}`
